@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "minecraft:block/dropper_front",
+    "side": "reuse:block/stone_side",
+    "top": "reuse:block/stone_top"
+  }
+}
