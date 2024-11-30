@@ -1,0 +1,26 @@
+Reuse by Tori
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Datapack Version 1.1.1 (2024/10/23) | Resourcepack Version 1.1.0 (2024/09/26) | Minecraft version 1.21.2 - 1.21.3
+
+-.New included features.-
+___________________________________________________________________________________________________
+New included furnace and blast furnace recipes:
+	1. Orange dye can be smelted from all kind of pumpkins in pumpkins in "all_pumpkins" tag
+	2. Gravel can be blasted into stone
+__________________________________________________________________________________________________
+New modified crafting recipes:
+	1. Brown dye can be crafted from all seeds, not only beetroot ones
+	2. Stews and soups modified to include "all_vegetables" tag in their respective recipes
+___________________________________________________________________________________________________
+New included tags:
+	1. New "all_pumpkins" tag that contains all kind of pumpkins
+	2. New "all_vegetables" tag that contains all vegetables items
+
+
+
+-.Modified features from base game.-
+___________________________________________________________________________________________________
+Modified loot tables:
+	1. Iron and gold ores now drops from 1 to 4 and from 1 to 6 in the deepslate version of the raw versions of the metal.
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_

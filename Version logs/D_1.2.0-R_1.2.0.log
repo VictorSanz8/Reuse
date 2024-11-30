@@ -1,0 +1,76 @@
+Reuse by Tori
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Datapack Version 1.2.0 (2024/11/30) | Resourcepack Version 1.2.0 (2024/11/30) | Minecraft version 1.21.2 - 1.21.3
+
+-.New modified features.-
+___________________________________________________________________________________________________
+New modified tags
+	1. Modified the "reuse:dirt_furnaceable" tag to "reuse:all_dirts"
+___________________________________________________________________________________________________
+New modified crafting recipes:
+	1. Buttons no longer form back cobblestone (neither in the blackstone version)
+
+
+
+-.New included features.-
+___________________________________________________________________________________________________
+New items
+	1. Added all types of copper tools: Sword, Axe, Pickaxe, Shovel and Hoe
+	2. Added the Flint Shears with less duration than the Iron one
+	3. Added the vegetal string crafted from wheat
+	4. Added the vegetal soup with same stats as the beetroot soup
+___________________________________________________________________________________________________
+New included crafting recipes:
+	1. Added crafting recipes for new copper tools
+	2. Separated the Iron shears recipe from the Flint shears recipe
+	3. Added the crafting recipe for the vegetal string
+	4. Added the vegetal soup crafting recipe
+	5. Added the mud recipe with a potion bottle, included water, and any dirt (bottle of water is then lost)
+	6. 9 Flint form a cobblestone and viceversa
+___________________________________________________________________________________________________
+New included furnace and blast furnace recipes:
+	1. Copper tools smelt and blast to one copper ingot
+___________________________________________________________________________________________________
+New included campfire recipes:
+	1. Clay balls transform into bricks in campfires
+___________________________________________________________________________________________________
+New tags:
+	1. New "copperage:copper_tool_materials" tag
+	2. New "reuse:all_vegetables_but_beetroot" tag
+	3. New "reuse:campfire_fuel" tag
+
+
+
+-.Modified features from base game.-
+___________________________________________________________________________________________________
+Modified crafting recipes:
+	1. Removed the wooden tools (Now will be copper)
+	2. Recovered the Iron shears recipe
+	3. Modified the cobweb recipe, now needs 4 string and 1 slime ball under the name of "minecraft:white_wool_from_string"
+	4. Arrows are now crafted from iron nuggets instead from flints
+	5. Modified the crafting recipe of the furnace
+	6. Modified the crafting recipe of the campfire
+	7. Reverted the pressure plate recipe (Also the blackstone version)
+	8. Modified stone tools crafting recipe
+___________________________________________________________________________________________________
+Modified textures:
+	1. Flint base texture changed to lighter tone, reflecting it comes from stone gravel
+	2. Flint and steel texture changed accordingly
+	3. Modified the textures of the powered rail to reflect the copper in the recipe
+	4. Modified the furnace texture to reflect the recipe
+___________________________________________________________________________________________________
+Modified tags:
+	1. "minecraft:stone_tool_materials" tag now contains just flint
+___________________________________________________________________________________________________
+Modified loot tables:
+	1. Modified the gravel so that it drops a flint always, even when mined with hand, unless "silk touch" is used
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+
+
+
+
+

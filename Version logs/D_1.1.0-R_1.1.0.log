@@ -1,0 +1,97 @@
+Reuse by Tori
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Datapack Version 1.1.0 (2024/09/26) | Resourcepack Version 1.1.0 (2024/09/26) | Minecraft version 1.21.0 - 1.21.2
+
+-.New included features.-
+___________________________________________________________________________________________________
+New included crafting recipes:
+	1. 4 stone buttons form a cobblestone block.
+	2. 4 blackstone buttons form a blackstone.
+	3. Recipe for the horse armors.
+	4. Recipe for chainmail armor using iron nuggets.
+	3. Bottle of enchanting recipe from echo shards and empty bottles.
+	4. Added a recipe for the saddle.
+	5. Added a recipe for the lead.
+	6. All leather objects can be turned back into leather.
+	7. Aded a recipe for the name tag.
+	8. Added brown dye recipe from beetroot seeds.
+
+___________________________________________________________________________________________________
+New included stonecutting recipes:
+	1. Flints can be obtained from gravel in stonecutter
+	2. Almost all stone, blackstone, andesite, granite and diorite blocks can be turned into gravel in the stonecutter.
+	3. Stone tools can be turned into cobblestone in the stonecutter.
+	4. Diamond tools and armor can be turned into diamonds in the stonecutter.
+	5. Nether bricks are recovered from nether brick objects in the stonecutter.
+
+___________________________________________________________________________________________________
+New included furnace and blast furnace recipes:
+	1. Echo shards from smelting sculk in furnace.
+	2. Dirts under tag "reuse:dirt_furnaceable" turns into terracotta in blast furnace.
+	3. Blasting or smelting iron items returns one of the elements used either ingots or nuggets.
+	4. Blasting or smelting gold objects returns one of the elements used either ingots or nuggets.
+	5. Smelting rotten flesh transforms into leather.
+	6. Blasting or smelting copper objects turns them into one copper ingot.
+
+___________________________________________________________________________________________________
+New included smoker recipes:
+	1. Mud turns into clay in the smoker.
+	2. Dirts under tag "reuse:dirt_furnaceable" turns into sand in the smoker.
+	3. Smoking poisonous potato gives a baked potato.
+
+___________________________________________________________________________________________________
+New included tags:
+	1. "reuse:dirt_furnaceable" tag includes all tipes of dirt and grass that can be used in furnaces to create other objects.
+	2. "reuse:all_furnaceable_copper_objects" tag contains all objects that turns into copper ingots in the furnace or blast furnace.
+
+
+
+-.Modified features from base game.-
+___________________________________________________________________________________________________
+Modified crafting recipes:
+	1. Stone and blackstone pressure plates now craft from stone and blackstone buttons.
+	2. Compasses and clocks now craft using nuggets instead of ingots.
+	3. Lodestone now uses an iron ingot instead of a netherite one.
+	4. Chains now craft with three iron nuggets.
+	5. Modified the recipes of lanterns to use less iron nuggets.
+	6. String now creates a cobweb instead of white wool.
+	7. Flint and steel crafts from two iron nuggets.
+	8. Golden apple crafts from gold nuggets.
+	9. Rabbit hide now needs just 2 of them to turn into leather.
+	10. The bucket recipe now gives 3 buckets.
+	11. Modified the triphook wire recipe.
+	12. Modified the iron bars recipe.
+	13. Modified the recipe for the rail and the powered rail.
+	14. Modified terracota dyeing recipes to accept any color of terracota and re-dyeing.
+	15. Shears now craft from two flints.
+	16. Modified the recipe for the copper bulb
+
+___________________________________________________________________________________________________
+Modified food recipes:
+	1. Beetroot Soup now needs a bowl, one beetroot and one potato (raw or baked) or another beetroots to craft.
+	2. Mushroom Stew now needs a bowl, one mushroom type and one of either a potato (raw or baked), a carrot or a beetroot.
+	3. Rabbit Stew now needs a bowl, one mushroom type, rabbit (raw or cooked), and one of either a potato (raw or baked), a carrot or a beetroot.
+	4. Pumpking Pie now needs an egg, a pumpkin and one wheat.
+	5. Bread now crafts from 2 wheat.
+
+___________________________________________________________________________________________________
+Modified furnace and blast furnace recipes:
+	1. Blasting or smelting iron items returns one of the elements used either ingots or nuggets.
+	2. Blasting or smelting gold objects returns one of the elements used either ingots or nuggets.
+
+___________________________________________________________________________________________________
+Modified tags:
+	1. Modified the "minecraft:logs_that_burn" tag to include bamboo blocks so that can be turn into charcoal.
+
+___________________________________________________________________________________________________
+Modified loot tables:
+	1. Cows now give always from 2 to 4 leather, afected by looting.
+	2. Horses now give always from 1 to 3 leather, afected by looting.
+	3. Pigs and Hoglings now give always from 1 to 2 leather, afected by looting.
+	4. Iron and gold ores now drops from 1 to 6 and from 3 to 9 in the deepslate version of the raw versions of the metal.
+
+___________________________________________________________________________________________________
+Modified enchantments:
+	1. Looting is modified so it can be placed in all enchantable/weapon tag items
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
