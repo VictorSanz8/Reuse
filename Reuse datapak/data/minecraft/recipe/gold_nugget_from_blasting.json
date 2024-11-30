@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "gold_nugget",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": "minecraft:clock",
+  "result": {
+    "id": "minecraft:gold_nugget"
+  }
+}

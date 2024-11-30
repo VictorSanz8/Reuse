@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "#copperage:copper_tool_materials"
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_shovel",
+    "components": {
+        "minecraft:repairable": {
+            "items": "#copperage:copper_tool_materials"
+        },
+        "minecraft:item_name": "'Copper Shovel'",
+        "minecraft:max_damage": 151,
+        "minecraft:attribute_modifiers": [
+            {
+                "id":"base_attack_damage","type":"attack_damage","amount":3.5,"operation":"add_value","slot": "mainhand"
+            },
+            {
+                "id":"base_attack_speed","type":"attack_speed","amount":-3,"operation":"add_value","slot": "mainhand"
+            }
+        ]
+    }
+  }
+}

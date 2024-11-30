@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:blasting",
+  "group": "iron_nugget",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    "minecraft:chainmail_helmet",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_leggings",
+    "minecraft:chainmail_boots",
+    "minecraft:compass",
+    "minecraft:recovery_compass",
+    "minecraft:iron_bars",
+    "minecraft:chain",
+    "minecraft:lantern",
+    "minecraft:soul_lantern"
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget"
+  }
+}

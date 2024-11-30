@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "group": "rabbit_stew",
+  "ingredients": [
+    "#reuse:all_vegetables",
+    [
+      "minecraft:cooked_rabbit",
+      "minecraft:rabbit"
+    ],
+    "minecraft:bowl",
+    "minecraft:brown_mushroom"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:rabbit_stew"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "#copperage:copper_tool_materials"
+  },
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_sword",
+    "components": {
+        "minecraft:repairable": {
+            "items": "#copperage:copper_tool_materials"
+        },
+        "minecraft:item_name": "'Copper Sword'",
+        "minecraft:max_damage": 150,
+        "minecraft:attribute_modifiers": [
+            {
+                "id":"base_attack_damage","type":"attack_damage","amount":5,"operation":"add_value","slot": "mainhand"
+            },
+            {
+                "id":"base_attack_speed","type":"attack_speed","amount":-2.4,"operation":"add_value","slot": "mainhand"
+            }
+        ]
+    }
+  }
+}
