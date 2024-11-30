@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    "minecraft:wooden_axe",
+    "minecraft:wooden_hoe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_shovel",
+    "minecraft:wooden_sword"
+  ],
+  "result": {
+    "id": "minecraft:copper_ingot"
+  }
+}
