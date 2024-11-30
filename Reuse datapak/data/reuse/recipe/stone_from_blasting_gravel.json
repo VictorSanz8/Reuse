@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "stone",
+  "category": "building",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": "minecraft:gravel",
+  "result": {
+    "id": "minecraft:stone"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mud",
+  "category": "misc",
+  "ingredients": [
+	  "#reuse:all_dirts",
+    "minecraft:potion"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:mud"
+  }
+}

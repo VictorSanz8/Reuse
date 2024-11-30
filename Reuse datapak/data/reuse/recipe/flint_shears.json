@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:flint"
+  },
+  "pattern": [
+    " #",
+    "# "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:shears",
+    "components": {
+        "minecraft:repairable": {
+            "items": "minecraft:flint"
+        },
+        "minecraft:custom_model_data":1,
+        "minecraft:max_damage": 115
+    }
+  }
+}

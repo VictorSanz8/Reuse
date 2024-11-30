@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "cobblestone",
+    "ingredient": [
+        "minecraft:stone_shovel",
+        "minecraft:stone_pickaxe",
+        "minecraft:stone_axe",
+        "minecraft:stone_hoe",
+        "minecraft:stone_sword"
+        ],
+    "result":{
+        "id": "minecraft:cobblestone",
+        "count": 1
+        }
+}

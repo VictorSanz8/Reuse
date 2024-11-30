@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "#reuse:all_furnaceable_copper_objects",
+  "result": {
+    "id": "minecraft:copper_ingot"
+  }
+}

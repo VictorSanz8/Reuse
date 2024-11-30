@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "iron_horse_armor",
+  "key": {
+    "X": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "X  ",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_horse_armor"
+  }
+}

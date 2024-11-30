@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "minecraft:bowl",
+    "#reuse:all_vegetables_but_beetroot",
+    "#reuse:all_vegetables_but_beetroot"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:beetroot_soup",
+    "components": {
+        "minecraft:custom_model_data":1,
+        "minecraft:item_name": "'Vegetal Soup'"
+    }
+  }
+}

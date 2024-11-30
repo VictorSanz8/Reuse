@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "vegetal_string",
+  "category": "misc",
+  "key": {
+    "X": "minecraft:wheat"
+  },
+  "pattern": [
+    " X",
+    "XX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:string",
+    "components": {
+        "minecraft:custom_model_data":1
+    }
+  }
+}

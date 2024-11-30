@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "orange_dye",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "#reuse:all_pumpkins",
+  "result": {
+    "id": "minecraft:orange_dye"
+  }
+}

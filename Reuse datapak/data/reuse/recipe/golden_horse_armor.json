@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "golden_horse_armor",
+  "key": {
+    "X": "minecraft:gold_ingot"
+  },
+  "pattern": [
+    "X  ",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_horse_armor"
+  }
+}

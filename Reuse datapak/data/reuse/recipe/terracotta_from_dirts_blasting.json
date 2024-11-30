@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "terracotta",
+  "category": "building",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "#reuse:all_dirts",
+  "result": {
+    "id": "minecraft:terracotta"
+  }
+}

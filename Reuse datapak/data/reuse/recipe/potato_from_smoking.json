@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "baked_potato",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "minecraft:poisonous_potato",
+  "result": {
+    "id": "minecraft:baked_potato"
+  }
+}
